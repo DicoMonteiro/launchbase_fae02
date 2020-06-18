@@ -1,10 +1,11 @@
 <h1 align="center">
     <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
     <br>
-    <a href="https://github.com/DicoMonteiro/launchbase_fae02/src">HTML</a> + <a href="https://github.com/DicoMonteiro/launchbase_fae02/public">CSS</a> + <a href="https://github.com/DicoMonteiro/launchbase_fae02/scripts">Javascript</a>
 </h1>
 
 <h4 align="center">
+  <a href="https://github.com/DicoMonteiro/launchbase_fae02/src">HTML</a> + <a href="https://github.com/DicoMonteiro/launchbase_fae02/public">CSS</a> + <a href="https://github.com/DicoMonteiro/launchbase_fae02/scripts">Javascript</a>
+  <br>
   It's an app for waste collection created during <a href="https://rocketseat.com.br/launchbase">Launchbase</a>
   <br>
   Created with :purple_heart: by <a href="https://rocketseat.com.br/">Rocketseat</a>
