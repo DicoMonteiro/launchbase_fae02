@@ -36,11 +36,6 @@
 -  [HTML](https://www.w3schools.com/html/)
 -  [CSS](https://www.w3schools.com/css/)
 -  [VS Code][vc]
-
-
-## :arrow_forward: Prerequisites
-
-In order to use and test the app on your smartphone, you should've already setup the development environment installing [Expo][expo] or a simulator cause you prefer.
   
 ## :information_source: How To Use
 
