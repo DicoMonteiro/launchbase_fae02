@@ -1,7 +1,6 @@
 <h1 align="center">
     <img alt="Launchbase" src="./asserts/logo.svg" />
     <br>
-    <br>
     <a href="https://github.com/DicoMonteiro/launchbase_fae02/src">HTML</a> + <a href="https://github.com/DicoMonteiro/launchbase_fae02/public">CSS</a> + <a href="https://github.com/DicoMonteiro/launchbase_fae02/scripts">Javascript</a>
 </h1>
 
