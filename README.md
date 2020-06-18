@@ -3,8 +3,11 @@
     <br>
 </h1>
 
-<h4 align="center">
+<h2>
   <a href="https://github.com/DicoMonteiro/launchbase_fae02/src">HTML</a> + <a href="https://github.com/DicoMonteiro/launchbase_fae02/public">CSS</a> + <a href="https://github.com/DicoMonteiro/launchbase_fae02/scripts">Javascript</a>
+</h2>
+
+<h4 align="center">
   <br>
   It's an app for waste collection created during <a href="https://rocketseat.com.br/launchbase">Launchbase</a>
   <br>
