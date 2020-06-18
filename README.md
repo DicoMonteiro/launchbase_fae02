@@ -67,6 +67,6 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Dico
 
 ---
 
-Made with :purple_heart: by Fabiano Almeida :wave: [Get in touch!](https://www.linkedin.com/in/adriano-barreto-monteiro-almeida/)
+Made with :purple_heart: by Adriano Almeida :wave: [Get in touch!](https://www.linkedin.com/in/adriano-barreto-monteiro-almeida/)
 
 [vc]: https://code.visualstudio.com/
