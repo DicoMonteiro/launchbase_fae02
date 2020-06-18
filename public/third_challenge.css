@@ -2,7 +2,7 @@
 @import "https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap";
 
 :root {
-    --color-orange: #fa9c50;
+    --color-orange: #D2691E;
     --color-rocket: #8b8b8b;
 }
 
@@ -29,11 +29,11 @@ header {
 }
 
 header div {
-    text-align: justify;
+    text-align: center;
 }
 
 header div a {
-    color: black;
+    color: white;
     font-size: 20px;
     line-height: 30px;
     margin: 0 30px;
@@ -90,11 +90,11 @@ header div a:hover {
      border-bottom: 1px solid var(--color-orange);
 }
 
-.links {
+.links-footer {
     text-align: center;
 }
 
-.links a {
+.links-footer a {
     color: white;
     font-size: 18px;
     line-height: 28px;
@@ -103,7 +103,7 @@ header div a:hover {
     text-decoration: none;
 }
 
-.links a:hover {
+.links-footer a:hover {
     color: var(--color-orange);
     transition: color 200ms;
 }

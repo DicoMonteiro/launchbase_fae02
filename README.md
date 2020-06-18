@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center">
-  <a href="https://github.com/DicoMonteiro/launchbase_fae02/src">HTML</a> + <a href="https://github.com/DicoMonteiro/launchbase_fae02/public">CSS</a> + <a href="https://github.com/DicoMonteiro/launchbase_fae02/scripts">Javascript</a>
+  <a href="https://github.com/DicoMonteiro/launchbase_fae02/src/pages">HTML</a> + <a href="https://github.com/DicoMonteiro/launchbase_fae02/public">CSS</a> + <a href="https://github.com/DicoMonteiro/launchbase_fae02/src/scripts">Javascript</a>
 </h2>
 
 <h4 align="center">
@@ -51,13 +51,13 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and in
 $ git clone https://github.com/DicoMonteiro/launchbase_fae02
 
 # Go into the repository about HTML
-$ cd src
+$ cd src/pages
 
 # Go into the repository about CSS
 $ cd public
 
 # Go into the repository about Javascript
-$ cd scripts
+$ cd src/scripts
 
 # Run the projects
 execute opened the files HTML in your browser
