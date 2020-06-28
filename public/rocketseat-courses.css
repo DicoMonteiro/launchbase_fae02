@@ -20,6 +20,8 @@
     background-color: var(--color-rocket);
     border: 5px solid var(--color-orange);
     align-items: center;
+
+    border-radius: 20px;
 }
 
 .card__image-container img{
